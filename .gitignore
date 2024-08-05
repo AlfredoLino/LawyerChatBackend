@@ -36,7 +36,7 @@ media
 .idea/**/gradle.xml
 .idea/**/libraries
 
-# File-based project format
+SQLiteDatabaseBrowserPortable/
 *.iws
 
 # IntelliJ
